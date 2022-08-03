@@ -4,6 +4,9 @@ Grad-CAM 알고리즘을 활용해, MNIST 숫자 예측 모델 설명하기
 
 ## 개요 
 
+GradCAM을 활용하여 MNIST데이터 분류 모델을 각 클래스별로 설명하였습니다.
+
+
 |dataset|model|framework|
 |---|---|---|
 |MNIST|CNN|tensorflow|
