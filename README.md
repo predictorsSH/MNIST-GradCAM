@@ -18,5 +18,7 @@ Grad-CAM 알고리즘을 활용해, MNIST 숫자 예측 모델 설명하기
 ![image alt <](/cam/cam_1.jpg)
 ![image alt ><](/cam/cam_2.jpg)
 
-<img style="float: right;" src="/cam/cam_1.jpg"  height="100px" width="100px" >
-<img style="float: right;" src="/cam/cam_2.jpg" height="100px" width="100px">
+<head style="float: right;">
+  <img src="/cam/cam_1.jpg"  height="100px" width="100px" >
+  <img src="/cam/cam_2.jpg" height="100px" width="100px">
+<head>
