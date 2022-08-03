@@ -14,7 +14,7 @@ Grad-CAM 알고리즘을 활용해, MNIST 숫자 예측 모델 설명하기
 
 ## 결과
 
-![image alt >](/cam/cam_0.jpg){: width="200" height="200"}
+![image alt >](/cam/cam_0.jpg){: width="200%" height="200%"}
 ![image alt <](/cam/cam_1.jpg){: width="200" height="200"}
 ![image alt ><](/cam/cam_2.jpg){: width="200" height="200"}
 
