@@ -13,6 +13,13 @@ Grad-CAM 알고리즘을 활용해, MNIST 숫자 예측 모델 설명하기
 
 
 ## 결과
+
+<figure class="half">
+  <img src="/cam/cam_0.jpg" width="300" height="300">
+  <img src="/cam/cam_1.jpg" width="300" height="300">
+  <img src="/cam/cam_2.jpg" width="300" height="300">
+figure>
+  
 <center class="half">
 <img src="/cam/cam_0.jpg" width="300" height="300">
 <img src="/cam/cam_1.jpg" width="300" height="300">
